@@ -6,7 +6,7 @@ import streamlit as st
 
 
 # Load your dataset
-df = pd.read_csv("Jemilat.csv")
+df = pd.read_csv("jemilat.csv")
 
 
 st.set_page_config(layout="wide")
